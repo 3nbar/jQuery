@@ -1,4 +1,4 @@
-# JavaScript
+# jQuery
 
 #Soooooooooooooooooooooooooooon
-# I am going to share a JavaScript tutorial. 
+# I am going to share a jQuery tutorial. 
